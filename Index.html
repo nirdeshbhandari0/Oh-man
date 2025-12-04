@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>orders of nirdesh</title>
+</head>
+<body>
+
+    <!-- SECRET LINK IN TOP RIGHT -->
+    <p align="right">
+        <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">Secret</a>
+    </p>
+
+    <!-- HEADER -->
+    <h1>THE ORDER</h1>
+    <p>the list is on your behalf.</p>
+    <hr>
+
+    <!-- NAVIGATION -->
+    <h2>Navigation</h2>
+    <p>
+        <a href="#home">Home</a> |
+        <a href="#about">About</a> |
+        <a href="#services">Services</a> |
+        <a href="#contact">Contact</a>
+    </p>
+    <hr>
+
+    <!-- HOME SECTION -->
+    <h2 id="home">Home</h2>
+    <p>Welcome to the orders! You cant escape.</p>
+    <hr>
+
+    <!-- ABOUT SECTION -->
+    <h2 id="about">About</h2>
+    <p>There are 5 orders 1pizza 2burger 3cola 4chicken 5unknown.</p>
+    <hr>
+
+    <!-- SERVICES SECTION -->
+    <h2 id="services">Services</h2>
+    <ul>
+        <li>Service 1 - Obey</li>
+        <li>Service 2 - Listen</li>
+        <li>Service 3 - Work</li>
+    </ul>
+    <hr>
+
+    <!-- CONTACT SECTION -->
+    <h2 id="contact">Contact</h2>
+    <p>Email: nirdeshbhandari21@gmail.com</p>
+    <p>number 9848244588.</p>
+    <hr>
+
+</body>
+</html>
